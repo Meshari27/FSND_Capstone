@@ -6,7 +6,7 @@ db = SQLAlchemy()
 
 
 database_name = 'agencydb'
-database_path = "postgres://{}/{}".format('localhost:5432', database_name)
+database_path = "postgres://wkfkzlmljtbqhx:c09d25be33f115b3a32180f698795f9223b59ce7ec81644c144e9b851886bc72@ec2-54-205-183-19.compute-1.amazonaws.com:5432/d8fnji71kdjhdl"
 
 
 
